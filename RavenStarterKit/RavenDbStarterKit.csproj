@@ -195,6 +195,7 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LeaderBoardController.cs" />
+    <Compile Include="Controllers\LeaderboardViewController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\MatchController.cs" />
     <Compile Include="Controllers\WindsorControllerFactory.cs" />
